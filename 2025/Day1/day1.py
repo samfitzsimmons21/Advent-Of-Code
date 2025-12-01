@@ -38,5 +38,5 @@ for line in lines:
     if dial == 0:
         zero_count_p1 += 1
 
-print(f"Answer is: {zero_count_p1}") # Part 1 answer: 1023
-print(f"Answer 2 is: {zero_count_p2 + zero_count_p1}") # Part 2 answer: 5899
+print(f"Answer is: {zero_count_p1}") # Part 1 answer: 1145
+print(f"Answer 2 is: {zero_count_p2 + zero_count_p1}") # Part 2 answer: 6561
