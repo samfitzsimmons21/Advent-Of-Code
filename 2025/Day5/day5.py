@@ -52,5 +52,6 @@ for val in range_vals:
     lower_range, upper_range = val
     p2_ans += upper_range - lower_range + 1
 
+
 print("Part 2 Answer: ", p2_ans)
 
